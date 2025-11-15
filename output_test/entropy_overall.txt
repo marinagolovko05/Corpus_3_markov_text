@@ -1,0 +1,2 @@
+entropy_bits_per_symbol = 4.485446
+total_symbols = 10281764
